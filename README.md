@@ -1,7 +1,8 @@
 #Adjacency Matrix to Edge List
 
-This is a simple Python script to convert any given [adjacency matrix](http://en.wikipedia.org/wiki/Adjacency_matrix) into an edge list.
-The tool can be interesting for anyone working with graph analysis. The git also includes an IPython Notebook file (***.ipynb**) with the script.
+This is a simple Python script to convert any given [adjacency matrix](http://en.wikipedia.org/wiki/Adjacency_matrix) into an edge list. The repository comes with an IPython Notebook file (***.ipynb**).
+
+The script can be interesting for anyone working with graph visualizations, as most programs such as Gephi require edge lists as an input. That being said, this script is recommended for use outside of MATLAB or R/Python libraries such as [igraph](http://igraph.org/r/doc/conversion.html) or [networkx](http://networkx.github.io/documentation/latest/reference/convert.html), providing similar functionality.
 
 Convert Tables
 -----
