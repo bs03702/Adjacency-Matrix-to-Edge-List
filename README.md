@@ -1,7 +1,7 @@
 #Adjacency Matrix to Edge List
 
 Simple Python script to convert an [adjacency matrix](http://en.wikipedia.org/wiki/Adjacency_matrix) into an edge list.
-Interesting for anyone working with network graphs.
+Interesting for anyone working with network graphs. The git also includes an IPython Notebook file with the script.
 
 Convert
 -----
@@ -31,8 +31,8 @@ Output File:
 Usage
 -----
 
-1.  Use an adjacency matrix with a structure like **matrix.csv**
-2.  Make sure **matrix.csv** is in the same folder as the python script (**adjacencymatrix_to_edgelist.py**)
+1.  Use an adjacency matrix with a structure as provided in **matrix.csv**
+2.  Make sure **matrix.csv** is in the same folder as **adjacencymatrix_to_edgelist.py**
 3.  Open Terminal and navigate to your folder
 5.  run ```python adjacencymatrix_to_edgelist.py```
-6.  Voilà. Open edge_list.csv and be happy :)
+6.  Voilà. Open **edge_list.csv** and be happy :)
