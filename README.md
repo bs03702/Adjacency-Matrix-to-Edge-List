@@ -1,6 +1,6 @@
 #Adjacency Matrix to Edge List
 
-This simple Python script helps to convert any given [adjacency matrix](http://en.wikipedia.org/wiki/Adjacency_matrix) into an edge list.
+This simple Python script that helps to convert any given [adjacency matrix](http://en.wikipedia.org/wiki/Adjacency_matrix) into an edge list.
 
 As most data visualization tools require edge lists as an input, this is a handy tool if you need a fast solution or can't find a suitable function in the library of your choice. That being said, the script is recommended for complementary use outside of MATLAB or R/Python libraries such as [igraph](http://igraph.org/r/doc/conversion.html) or [networkx](http://networkx.github.io/documentation/latest/reference/convert.html), as they are well-provided with data conversion functionalities.
 
@@ -38,4 +38,4 @@ Use
 5.  run ```python adjacencymatrix_to_edgelist.py```
 6.  Voilà. Open **edge_list.csv** and be happy :)
 
-The repository comes with an IPython Notebook file (***.ipynb**).
+The repository comes with an IPython Notebook file (**.ipynb*).
